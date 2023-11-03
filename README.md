@@ -17,6 +17,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the [cu
 3. Write *python wpm.py* on your command line
 4. Have fun while improving your writing skills :)
 
+## Demo :
 ![bem](https://github.com/mfr-vic/typing/assets/149529717/dd7e2cfd-a761-49de-a9ba-9f5628e60bbe)
 ![monsieur](https://github.com/mfr-vic/typing/assets/149529717/f560ccbe-bce7-463a-a90d-2feeb481cd1b)
 ![asdf](https://github.com/mfr-vic/typing/assets/149529717/b8d719f6-4892-4b33-9768-7d9320d51f1c)
